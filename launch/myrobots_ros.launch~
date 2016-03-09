@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="myrobots_ros" type="myrobots_ros.py" name="myrobots" output="screen">
+		<rosparam command="load" file="$(find myrobots_ros)/config/myrobot_ros_config.yaml"/>
+    </node>
+</launch>

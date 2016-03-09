@@ -1,0 +1,32 @@
+# topics for myrobots.com to subscribe to
+
+#KEY
+key: "0AE4C069CCDF432D"
+
+
+# Field 1
+Field_1_topic: "field1"
+feild_1_data: "Int16"
+
+
+# TOPIC 2
+
+# TOPIC 3
+
+# TOPIC 4
+
+# TOPIC 5
+
+# TOPIC 6
+
+# TOPIC 7
+
+# TOPIC 8
+
+# STATUS
+status_topic: "status"
+status_data: "String"
+
+
+# Lat/Long/Elev if aplicable
+

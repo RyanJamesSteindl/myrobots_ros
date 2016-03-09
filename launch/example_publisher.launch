@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="myrobots_ros" type="myrobots_example.py" name="myrobots_publisher" output="screen">
+    </node>
+</launch>

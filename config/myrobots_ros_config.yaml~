@@ -1,0 +1,57 @@
+# topics for myrobots.com to subscribe to
+
+#KEY
+key: "0AE4C069CCDF432D"
+
+
+# Field 1
+field_1_topic: "field1"
+feild_1_data_type: "Int16"
+field_1_default: 10
+
+# TOPIC 2
+field_2_topic: "field2"
+feild_2_data_type: "Int16"
+field_2_default: 20
+
+# TOPIC 3
+field_3_topic: "field3"
+feild_3_data_type: "Int16"
+field_3_default: 30
+
+# TOPIC 4
+field_4_topic: "field4"
+feild_4_data_type: "Int16"
+field_4_default: 40
+
+# TOPIC 5
+field_5_topic: "field5"
+feild_5_data_type: "Int16"
+field_5_default: 50
+
+# TOPIC 6
+field_6_topic: "field6"
+feild_6_data_type: "Int16"
+field_6_default: 60
+
+# TOPIC 7
+field_7_topic: "field7"
+feild_7_data_type: "Int16"
+field_7_default: 70
+
+# TOPIC 8
+field_8_topic: "field8"
+feild_8_data_type: "Int16"
+field_8_default: 80
+
+# STATUS
+status_topic: "status"
+status_data_type: "String"
+status_default: "initial"
+# LOCATION
+location_topic: "status"
+location_data_type: "String"
+location_default: "Home"
+
+# Lat/Long/Elev if aplicable
+
